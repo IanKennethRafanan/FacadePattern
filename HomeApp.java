@@ -5,4 +5,4 @@ public class HomeApp {
         homeInterface.TurnOnAll();
         homeInterface.turnOffAll();
     }
-}
+} 
